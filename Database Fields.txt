@@ -1,2 +1,3 @@
 ISBN - Primary Key
 Author - Text 50 characters
+Title - Text characters
